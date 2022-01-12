@@ -1,0 +1,4 @@
+C:\Users\basis\source\repos\kalkulātors\kalkulātors\x64\Debug\kalkulātors.vcxproj.AssemblyReference.cache
+C:\Users\basis\source\repos\kalkulātors\kalkulātors\x64\Debug\kalkulātors.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\basis\source\repos\kalkulātors\kalkulātors\x64\Debug\kalkulātors.vcxproj.GenerateResource.cache
+C:\Users\basis\source\repos\kalkulātors\kalkulātors\x64\Debug\kalkulātors.Kalkulātors.resources
