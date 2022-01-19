@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+C:\Users\dimba\Desktop\Kalkulātorss\Kalkulātorss\MyForm.h(1000,12): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\dimba\Desktop\Kalkulātorss\Kalkulātorss\MyForm.h(1001,13): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\dimba\Desktop\Kalkulātorss\Kalkulātorss\MyForm.cpp(11,5): error C2653: 'Kalkulâtorss': is not a class or namespace name
+C:\Users\dimba\Desktop\Kalkulātorss\Kalkulātorss\MyForm.cpp(11,20): error C2065: 'MyForm': undeclared identifier
+C:\Users\dimba\Desktop\Kalkulātorss\Kalkulātorss\MyForm.cpp(11,27): error C2146: syntax error: missing ';' before identifier 'form'
+C:\Users\dimba\Desktop\Kalkulātorss\Kalkulātorss\MyForm.cpp(11,27): error C2065: 'form': undeclared identifier
+C:\Users\dimba\Desktop\Kalkulātorss\Kalkulātorss\MyForm.cpp(12,24): error C2065: 'form': undeclared identifier
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
